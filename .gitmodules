@@ -1,0 +1,6 @@
+[submodule "openmrs-module-amrsreports"]
+	path = openmrs-module-amrsreports
+	url = git@github.com:AMPATH/openmrs-module-amrsreports.git
+[submodule "openmrs-module-pcslabinterface"]
+	path = openmrs-module-pcslabinterface
+	url = git@github.com:AMPATH/openmrs-module-pcslabinterface.git
